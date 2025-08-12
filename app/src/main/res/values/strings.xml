@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CitrusChecky</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="ayo_mulai">Ayo Mulai</string>
+    <string name="hasil_deteksi">Hasil Deteksi</string>
+    <string name="tanda">-</string>
+    <string name="_89">89%</string>
+    <string name="tanya_checkyai">Tanya CheckyAI</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="resep_kegunaan">Resep Kegunaan</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="checkyai">CheckyAI</string>
+    <string name="link_to_github">Link To GitHub</string>
+    <string name="lainnya">Lainnya</string>
+</resources>

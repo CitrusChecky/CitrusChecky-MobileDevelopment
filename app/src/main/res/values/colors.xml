@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_citrus_modern">#FF8C42</color>
+    <color name="secondary_citrus_modern">#FFB366</color>
+    <color name="background_citrus_modern">#FFFBF7</color>
+    <color name="secondary_tropical_gradient">#FFD93D</color>
+    <color name="text_tropical_gradient">#1A1A1A</color>
+    <color name="secondary_sophisticated_citrus">#F39C12</color>
+    <color name="accent_sophisticated_citrus">#27AE60</color>
+</resources>
