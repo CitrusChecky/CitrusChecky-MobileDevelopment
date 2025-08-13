@@ -49,3 +49,12 @@ Menggunakan model **YOLOv8n** dengan akurasi **93%**, CitrusChecky dapat **mende
 Aplikasi ini dirancang untuk membantu pengguna — mulai dari petani hingga konsumen — agar lebih mudah mengenali kualitas buah jeruk tanpa perlu analisis manual yang memakan waktu.
 
 ---
+
+## 📥 Download APK  
+<p align="center">
+  <a href="https://github.com/CitrusChecky/CitrusChecky-MobileDevelopment/blob/main/CitrusChecky.apk">
+    <img src="https://img.shields.io/badge/⬇_Download%20APK-orange?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+</p>
+
+---
